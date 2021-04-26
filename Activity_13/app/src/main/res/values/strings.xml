@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Activity_1.3</string>
+    <string name="Writeyourname">Write your name...</string>
+    <string name="pressme">Press Me!</string>
+    <string name="blank">\"\"</string>
+    <string name="blank1" />
+    <string name="sendHobbie">Send Hobbie</string>
+    <string name="hobbieis">My hobbie is</string>
+</resources>
