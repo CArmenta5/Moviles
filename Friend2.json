@@ -1,0 +1,52 @@
+{"Friends":[
+    {
+      "nombre": "Kinari",
+      "hobby": "pintar",
+      "age": 21,
+      "phone": 1234567890,
+      "address": "Calle fulanito de tal"
+    },
+    {
+      "nombre":"Carlos",
+      "hobby":"correr",
+      "age": 21,
+      "phone": 1234567890,
+      "address": "Calle fulanito de tal"
+    },
+    {
+      "nombre":"Caro",
+      "hobby":"karate",
+      "age": 21,
+      "phone": 1234567890,
+      "address": "Calle fulanito de tal"
+    },
+    {
+      "nombre":"Emiliano",
+      "hobby":"Dibujar",
+      "age": 20,
+      "phone": 1234567890,
+      "address": "Calle fulanito de tal"
+    },
+    {
+      "nombre":"Rigoberto",
+      "hobby":"Xbox",
+      "age": 20,
+      "phone": 1234567890,
+      "address": "Calle fulanito de tal"
+    },
+    {
+      "nombre":"Jassive",
+      "hobby":"Leer",
+      "age": 20,
+      "phone": 1234567890,
+      "address": "Calle fulanito de tal"
+    },
+    {
+      "nombre":"Jorge",
+      "hobby":"Correr",
+      "age": 20,
+      "phone": 1234567890,
+      "address": "Calle fulanito de tal"
+    }
+
+]}
