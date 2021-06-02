@@ -23,7 +23,7 @@
     {
       "nombre":"Emiliano",
       "hobby":"Dibujar",
-      "age": 20,
+      "age": 21,
       "phone": 1234567890,
       "address": "Calle fulanito de tal"
     },
@@ -45,6 +45,48 @@
       "nombre":"Jorge",
       "hobby":"Correr",
       "age": 20,
+      "phone": 1234567890,
+      "address": "Calle fulanito de tal"
+    },
+    {
+      "nombre":"Diana",
+      "hobby":"Pistear",
+      "age": 21,
+      "phone": 1234567890,
+      "address": "Calle fulanito de tal"
+    },
+    {
+      "nombre":"Angel",
+      "hobby":"Andar en moto",
+      "age": 21,
+      "phone": 1234567890,
+      "address": "Calle fulanito de tal"
+    },
+    {
+      "nombre":"Paco",
+      "hobby":"Tomar",
+      "age": 21,
+      "phone": 1234567890,
+      "address": "Calle fulanito de tal"
+    },
+    {
+      "nombre":"Angela",
+      "hobby":"Correr",
+      "age": 21,
+      "phone": 1234567890,
+      "address": "Calle fulanito de tal"
+    },
+    {
+      "nombre":"Jose Luis",
+      "hobby":"Programar",
+      "age": 20,
+      "phone": 1234567890,
+      "address": "Calle fulanito de tal"
+    },
+    {
+      "nombre":"Ricardo",
+      "hobby":"Fuchibol",
+      "age": 21,
       "phone": 1234567890,
       "address": "Calle fulanito de tal"
     }
