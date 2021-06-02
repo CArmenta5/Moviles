@@ -1,4 +1,4 @@
-"Friends":[
+{"friends":[
     {
       "nombre": "Kinari",
       "hobby": "pintar",
@@ -49,4 +49,4 @@
       "address": "Calle fulanito de tal"
     }
 
-]
+]}
